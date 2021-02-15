@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Rat-in-a-Maze/static/css/main.15506e94.chunk.css",
+    "main.js": "/Rat-in-a-Maze/static/js/main.b2216fba.chunk.js",
+    "main.js.map": "/Rat-in-a-Maze/static/js/main.b2216fba.chunk.js.map",
+    "runtime-main.js": "/Rat-in-a-Maze/static/js/runtime-main.3b4b3443.js",
+    "runtime-main.js.map": "/Rat-in-a-Maze/static/js/runtime-main.3b4b3443.js.map",
+    "static/js/2.adc3159f.chunk.js": "/Rat-in-a-Maze/static/js/2.adc3159f.chunk.js",
+    "static/js/2.adc3159f.chunk.js.map": "/Rat-in-a-Maze/static/js/2.adc3159f.chunk.js.map",
+    "index.html": "/Rat-in-a-Maze/index.html",
+    "static/css/main.15506e94.chunk.css.map": "/Rat-in-a-Maze/static/css/main.15506e94.chunk.css.map",
+    "static/js/2.adc3159f.chunk.js.LICENSE.txt": "/Rat-in-a-Maze/static/js/2.adc3159f.chunk.js.LICENSE.txt",
+    "static/media/cheese.1aa54fee.png": "/Rat-in-a-Maze/static/media/cheese.1aa54fee.png",
+    "static/media/rat.4658acee.png": "/Rat-in-a-Maze/static/media/rat.4658acee.png",
+    "static/media/ratinmaze.1603c73e.png": "/Rat-in-a-Maze/static/media/ratinmaze.1603c73e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b4b3443.js",
+    "static/js/2.adc3159f.chunk.js",
+    "static/css/main.15506e94.chunk.css",
+    "static/js/main.b2216fba.chunk.js"
+  ]
+}
