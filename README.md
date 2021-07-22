@@ -16,10 +16,12 @@ Setup your development environment as follows:
     git clone https://github.com/rachita19082/Rat-in-a-Maze.git
 
 2. Install project dependencies:
+
     cd Rat-in-a-Maze
     npm install
 
 3. Run the app in the development mode:
+
     npm start
 
     Open http://localhost:3000 to view it in the browser.
