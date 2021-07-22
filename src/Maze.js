@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import rat from './rat.png';
-import ratinmaze from './ratinmaze.png';
 import cheese from './cheese.png';
 import Grid from '@material-ui/core/Grid';
 import Paper from '@material-ui/core/Paper';
@@ -9,8 +8,7 @@ import Box from '@material-ui/core/Box';
 import './index.css';
 import Cell from './Cell';
 import Path from './Path';
-import { render } from '@testing-library/react';
-import { Button, makeStyles } from '@material-ui/core';
+import { Button } from '@material-ui/core';
 
 class Maze extends React.Component {
     matrix = [2];

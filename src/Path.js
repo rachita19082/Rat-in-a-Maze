@@ -1,7 +1,5 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
 import rat from './rat.png';
-import ratinmaze from './ratinmaze.png';
 import cheese from './cheese.png';
 import Grid from '@material-ui/core/Grid';
 import Paper from '@material-ui/core/Paper';
