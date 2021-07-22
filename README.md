@@ -11,9 +11,13 @@ Setup your development environment as follows:
 
 1. Clone this repo:
     * SSL:
+    ```
     git clone git@github.com:rachita19082/Rat-in-a-Maze.git
+    ```
     * HTTPS:
+    ```
     git clone https://github.com/rachita19082/Rat-in-a-Maze.git
+    ```
 
 2. Install project dependencies:
     ```
