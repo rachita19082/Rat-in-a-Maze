@@ -6,8 +6,6 @@ import Paper from '@material-ui/core/Paper';
 import Box from '@material-ui/core/Box';
 import './index.css';
 import Cell from './Cell';
-import { render } from '@testing-library/react';
-import { Button, makeStyles } from '@material-ui/core';
 
 class Path extends React.Component {
     constructor(props)
